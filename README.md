@@ -1,6 +1,6 @@
 # ApplicationNotes
 Quick note app - 'tapp'
-![1](https://user-images.githubusercontent.com/110635394/236964642-f0d71e36-87bc-42c4-b76a-e6668ea5df30.png)
+![1](https://user-images.githubusercontent.com/110635394/236964998-7848dcf8-7c1c-4402-a80b-954e37a064c3.png)
 ![2](https://user-images.githubusercontent.com/110635394/236964649-da47238f-c447-4b7e-9499-c176d220357d.png)
 ![3](https://user-images.githubusercontent.com/110635394/236964651-08bc6b5c-cf70-4075-a9b7-682177a49573.png)
 ![4](https://user-images.githubusercontent.com/110635394/236964656-6648c4dd-5185-415e-a508-1c0eb5f214e3.png)
