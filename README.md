@@ -3,9 +3,11 @@
 Easy note taking app for iPhone.
 
 Technologies:
+
 • Data Base: CoreData
 
 Possibilities:
+
 • Saving notes
 • View notes
 • Editing notes
