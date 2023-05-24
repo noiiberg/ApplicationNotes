@@ -6,6 +6,8 @@ Technologies:
 
 • Data Base: CoreData
 
+
+
 Possibilities:
 
 • Saving notes
